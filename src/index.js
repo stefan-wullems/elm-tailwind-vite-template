@@ -1,6 +1,5 @@
 'use strict';
 
-import './index.css';
 
 import { generateSpaFlags, extBrowserSetup } from './Vendor/browser.js';
 import { Elm } from './App.elm';
